@@ -1,0 +1,868 @@
+@charset "utf-8";
+
+html {
+	background-color: #FFF;
+}
+
+body {
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: arial;
+	background-color: #FFFFFF;
+	padding-top: 70px;
+}
+
+h1
+{
+	
+}
+
+h2 {
+  color: #686868;
+  margin: auto;
+  text-align: left;
+  font-size: 2em;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+h3 {
+	color: #686868;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+.homeh3 {
+	display: block;
+	margin: auto;
+	text-align: left;
+	font-size: 1.9em;
+}
+
+h4 {
+  color: #686868;
+  font-size: 2.3em;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+h5 {
+	font-family: merienda-one;
+	display: block;
+	text-align: center;
+	align-content: center;
+	margin-right: 18%;
+	margin-left: 18%;
+	font-size: 24px;
+	color: #1B606D;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	color: #D89475;
+	font-style: normal;
+}
+
+.imgheading {
+	display: block;
+	align-content: center;
+	margin: auto;
+	width: 100%;
+}
+
+.imgheaders {
+	width: 100%;
+}
+
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	display: block;
+	text-align: left;
+	align-content: center;
+	font-size: 17px;
+	color: #555252;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+#quoteFormCaption {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	display: block;
+	text-align: center;
+	align-content: center;
+	margin-right: 25%;
+	margin-left: 25%;
+	font-size: 20px;
+	color: #1B606D;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.home_content {
+	display: block;
+	margin: auto;
+	width: 75%;
+	overflow: auto;
+}
+
+.about_content {
+	display: block;
+	margin: auto;
+	width: 75%;
+	overflow: auto;
+}
+
+#allyson {
+	display: block;
+	width: 250px;
+	float: right;
+	margin-left: 5px;
+}
+
+#aboutp {
+	display: block;
+	float: left;
+	margin: 0px;
+}
+
+#imgRentals1 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals2 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals3 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals4 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals5 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals6 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals7 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals8 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals9 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals10 {
+	display: block;
+	width: 100%;
+	
+}
+
+#imgRentals11 {
+	display: block;
+	width: 100%;
+	
+}
+
+#rentalsTable {
+	width: 80%;
+	margin: auto;
+}
+
+.even{
+	float: right;
+}
+
+.odd{
+	float: left;
+}
+
+td {
+	width: 50%;
+	padding: 3.5px;
+}
+
+
+.rightText {
+	text-align: right;
+	float: right;
+	font-size: 30px;
+}
+
+.leftText {
+	text-align: left;
+	float: left;
+	font-size: 30px;
+}
+
+#rightP1 {
+	text-align: right;
+	font-size: 1.2em;
+	float: right;
+}
+
+#leftP1 {
+	text-align: left;
+	font-size: 1.2em;
+	float: left;
+}
+
+#rightP2 {
+	text-align: right;
+	font-size: 1.2em;
+	float: right;
+}
+
+
+.event_content {
+	display: block;
+	margin: auto;
+	width: 80%;
+}
+
+#destination {
+	display: block;
+	margin: auto;
+	width: 340px;
+	float: left;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.destinationp {
+	margin-right: 0px;
+	margin-left: 0px;
+	float: left;
+	text-align: left;
+}
+
+.destinationp2 {
+	align-content: center;
+	margin-right: 0px;
+	margin-left: 0px;
+	float: right;
+	text-align: left;
+}
+
+#other {
+	display: block;
+	margin: auto;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 330px;
+	float: right;
+}
+
+.otherp {
+	align-content: center;
+	margin-right: 0px;
+	margin-left: 0px;
+	float: left;
+	text-align: left;
+}
+
+
+#weddings1 {
+	display: block;
+	width: 500px;
+	margin: auto;
+	float: right;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#weddings2 {
+	display: block;
+	width: 500px;
+	margin: auto;
+	float: left;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.weddingp {
+	align-content: center;
+	margin-right: 0px;
+	margin-left: 0px;
+	text-align: left;
+}
+
+.budget {
+	display: block;
+	background-color: #FFE9E2;
+	font-size: 1em;
+	margin: auto;
+	width: 60%;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+#budgetHeading {
+	font-size: 1.5em;
+	text-align: center;
+}
+
+#budgetp {
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#galleryp {
+	display: block;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	font-size : 18px;
+}
+
+.galleryHeading {
+	display: block;
+	font-size: 2.2em;
+}
+
+footer {
+	width: 100%;
+	clear: left;
+	background-color: #828282;
+	color: #FFFFFF;
+	font-style: normal;
+	font-variant: small-caps;
+	font-size: 1em;
+	font-family: Nobile, Verdana, Geneva, sans-serif;
+	line-height: 2em;
+	text-align: center;
+}
+
+.footerimg {
+	display: block;
+	align-items: center;
+}
+
+#fimg1 {
+	width: 3%;
+	height: 3%;
+	margin-bottom: .8%;
+}
+
+#fimg2 {
+	width: 3%;
+	height: 3%;
+	margin-bottom: .8%;
+}
+
+#fimg3 {
+	width: 3%;
+	height: 3%;
+	margin-bottom: .8%;
+}
+
+#fimg4 {
+	width: 3%;
+	height: 3%;
+	margin-bottom: .8%;
+}
+
+#cimage1 {
+	width: 90%;
+}
+
+#cimage2 {
+	width: 90%;
+}
+
+#cimage3 {
+	width: 90%;
+}
+
+#cimage4 {
+	width: 90%;
+}
+
+#photoGalleryTable {
+	width: 100%;
+}
+
+/* #photoGalleryRow1 {
+	height: 50%;
+}
+
+#photoGalleryRow2 {
+	height: 50%;
+}
+
+#photoGalleryColumn1 {
+	width: 50%;
+}
+
+#photoGalleryColumn2 {
+	width: 50%;
+}
+
+#photoGalleryColumn3 {
+	width: 50%;
+}
+
+#photoGalleryColumn4 {
+	width: 50%
+} */
+
+#pimage1 {
+	height: 80%;
+	width: 100%;
+}
+
+#pimage2 {
+	height: 80%;
+	width: 100%;
+}
+
+#pimage3 {
+	height: 80%;
+	width: 100%;
+}
+
+#pimage4 {
+	height: 80%;
+	width: 100%;
+}
+
+#pimage5 {
+	height: 80%;
+	width: 100%;
+}
+
+#oimage1 {
+	height: 80%;
+	width: 100%;
+}
+
+#oimage2 {
+	height: 80%;
+	width: 100%;
+}
+
+#oimage3 {
+	height: 80%;
+	width: 100%;
+}
+
+#oimage4 {
+	height: 80%;
+	width: 100%;
+}
+
+#oimage5 {
+	height: 80%;
+	width: 100%;
+}
+
+#oimage6 {
+	height: 80%;
+	width: 100%;
+}
+
+#oimage7 {
+	height: 80%;
+	width: 100%;
+}
+
+#rimage1 {
+	height: 80%;
+	width: 100%;
+}
+
+#rimage2 {
+	height: 80%;
+	width: 100%;
+}
+
+#rimage3 {
+	height: 80%;
+	width: 100%;
+}
+
+#rimage4 {
+	height: 80%;
+	width: 100%;
+}
+
+#rimage5 {
+	height: 80%;
+	width: 100%;
+}
+
+#fimage1 {
+	height: 80%;
+	width: 100%;
+}
+
+#fimage2 {
+	height: 80%;
+	width: 100%;
+}
+
+#fimage3 {
+	height: 80%;
+	width: 100%;
+}
+
+#fimage4 {
+	height: 80%;
+	width: 100%;
+}
+
+.navbar-brand {
+	font-family: italianno;
+	font-size: 2em;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.navbar {
+	background-color: #FFFFFF;
+	color: #6C354A;
+}
+
+.dropdown-item a:active {
+	background-color: #863C47;
+}
+.navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
+  	color: #C98390;
+}
+
+.carousel-caption {
+	font-family: italianno;
+	display: block;
+	font-size: 5em;
+	text-align: center;
+	text-shadow: 1.2px 0px #52441A;
+	position: absolute;
+	vertical-align: middle;
+	font-weight: 400;
+	font-style: normal;
+	box-sizing: content-box;
+	padding-bottom: 0%;
+	padding-top: 0%;
+	margin-top: 20%;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-bottom: 25%;
+	color: hsla(0,0%,100%,1.00);
+}
+
+div #carouselExampleIndicators1
+{
+	padding: 15px;
+}
+
+div.carousel-inner {
+	height: auto;
+	width: 100%;
+}
+
+.mainImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 15px;
+    width: 50%;
+}
+
+#quoteImage {
+	width: 170px;
+	display: block;
+	margin: auto;
+	padding-bottom: 10px;
+}
+
+#quote {
+	text-align: center;
+	font-size: 2em;
+	margin: auto;
+	font-family: allura, Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-style: normal;
+	font-weight: 400;
+	padding: 10px;
+	display: block;
+}
+
+.tile_div {
+	display: block;
+	margin: auto;
+	align-content: center;
+	width: 90%;
+}
+
+.tile_table {
+	margin: auto;
+	width: 100%;
+}
+
+
+
+#homeIcon1 {
+	display: block;
+	margin: auto;
+	align-content: center;
+	width: 180px;
+}
+
+#homeIcon2 {
+	display: block;
+	margin: auto;
+	align-content: center;
+	width: 180px;
+}
+
+#homeIcon3 {
+	display: block;
+	margin: auto;
+	align-content: center;
+	width: 180px;
+}
+
+#homeIcon4 {
+	display: block;
+	margin: auto;
+	align-content: center;
+	width: 180px;
+}
+
+.btnHomeButton
+{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #515151;
+    display: block;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+    border-color: #CCCCCC;
+    border-radius: 7px;
+  	width: 100%;
+    height: 62px;
+	background-color: #FFF;
+}
+
+.btnHomeButton:active
+{
+    color: #B06A48;
+    background-color: #FFE4D7; /*#FFFDFD*/
+    border-color: #B06A48;
+	font-style: none;
+}
+
+.btnHomeButton:hover
+{
+	color: #7F4C34;
+	background-color: #FFE4D7; /*#FFFDFD*/
+	border-color: #676767;
+	font-style: none;
+}
+
+.Quote {
+	width: 170px;
+	margin: auto;
+}
+
+.btnQuote 
+{
+   font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #515151; 
+    display: block;
+    text-align: center;
+    margin: auto;
+    font-size: 100%;
+    border-color: #CCCCCC;
+    border-radius: 7px;
+  	width: 200px;
+    height: 60px;
+	background-color: #FFF;
+}
+
+.btnQuote:active
+{
+    color: #B06A48;
+    background-color: #FFE4D7; /*#FFFDFD*/
+    border-color: #B06A48;
+	font-style: none;
+}
+
+.btnQuote:hover
+{
+    color: #B06A48;
+    background-color: #FFE4D7; /*#FFFDFD*/
+    border-color: #B06A48;
+	font-style: none;
+}
+
+form {
+	display: block;
+	margin: auto;
+	width: 70%;
+	align-content: center;
+	float: inherit;
+}
+
+.form-group
+{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: justify;
+	font-weight: bold;
+	align-content: center;
+	font-size: 17px;
+	color: #72362E;
+	line-height: 18px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	width: 100%;
+	padding: 5px;
+	align-items: center;
+}
+
+.form-check-label 
+{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 15px;
+	color: #72362E;
+}
+
+select {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 15px;
+	color: #72362E;
+	background-color: #FFF;
+}
+
+option {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 15px;
+	color: #72362E;
+	background-color: #FFE4D7;
+}
+
+select:hover, select:focus, select:active {
+	background-color: #FFE4D7;
+	color: white;
+}
+
+select option:hover, option:focus, option:active {
+	background-color: #EDCBBE;
+	color: white;
+}
+
+.btnSubmit {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #515151;
+    display: block;
+    text-align: center;
+    margin: auto;
+    font-size: 100%;
+    border-color: #CCCCCC;
+    border-radius: 7px;
+  	width: 200px;
+    height: 60px;
+	background-color: #FFF;
+}
+
+.btnSubmit:active
+{
+    color: #B06A48;
+    background-color: #FFE4D7; /*#FFFDFD*/
+    border-color: #B06A48;
+}
+
+.btnSubmit:hover
+{
+    color: #B06A48;
+    background-color: #FFE4D7; /*#FFFDFD*/
+    border-color: #B06A48;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+#buttons
+{margin: 0 -5px;}
+
+
+
+#Buttons:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+
+.row {margin: 0 -5px;}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
